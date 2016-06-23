@@ -1,0 +1,3 @@
+# PanGestureDirection
+根据pan手势的偏移距离判断手势的方向。
+适用于：一个scrollView上放置多个tableview，判断是左右滑动scrollView还是上下滑动tableview等场景。
